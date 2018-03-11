@@ -32,4 +32,4 @@ If you find an error or would like to improve this project, feel free to create 
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details
